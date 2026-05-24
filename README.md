@@ -1,4 +1,4 @@
-# Яндекс Метро — Sprint 4 (Mobile Manual QA)
+# Яндекс Метро — Mobile Manual QA
 
 Ручное тестирование мобильного приложения **Яндекс Метро 3.6**: функциональный и регрессионный прогоны, анализ дефектов и вывод о готовности версии к публикации.
 
@@ -38,8 +38,8 @@
 
 ## Ссылки
 
-- **Репозиторий (GitHub):** [q1nn2/Sprint_4_mobile_Yandex_metro](https://github.com/q1nn2/Sprint_4_mobile_Yandex_metro)
-- **Общая таблица спринта:** [Google Sheets — Sprint 4](https://docs.google.com/spreadsheets/d/1C5GOykrg3Rn413rxmCkL4MLwneac4RO1n8fuuGGmt2g/edit)
+- **Репозиторий (GitHub):** [q1nn2/mobile_yandex_metro](https://github.com/q1nn2/mobile_yandex_metro)
+- **Общая таблица:** [Google Sheets](https://docs.google.com/spreadsheets/d/1C5GOykrg3Rn413rxmCkL4MLwneac4RO1n8fuuGGmt2g/edit)
 - **Функциональный чек-лист:** [gid=899462569](https://docs.google.com/spreadsheets/d/1C5GOykrg3Rn413rxmCkL4MLwneac4RO1n8fuuGGmt2g/edit?gid=899462569#gid=899462569)
 - **Регрессионный чек-лист:** [gid=1540435533](https://docs.google.com/spreadsheets/d/1C5GOykrg3Rn413rxmCkL4MLwneac4RO1n8fuuGGmt2g/edit?gid=1540435533#gid=1540435533)
 - **Баг-репорты:** [gid=165188381](https://docs.google.com/spreadsheets/d/1C5GOykrg3Rn413rxmCkL4MLwneac4RO1n8fuuGGmt2g/edit?gid=165188381#gid=165188381)

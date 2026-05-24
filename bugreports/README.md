@@ -1,4 +1,4 @@
-# Баг-репорты (Sprint 4)
+# Баг-репорты
 
 Источник: [Google Sheets (gid=165188381)](https://docs.google.com/spreadsheets/d/1C5GOykrg3Rn413rxmCkL4MLwneac4RO1n8fuuGGmt2g/edit?gid=165188381#gid=165188381)
 
